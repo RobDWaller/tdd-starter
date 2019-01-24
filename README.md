@@ -1,8 +1,13 @@
 # Test Driven Development Starter Library
 
-This is a library to get started with Test Driven Development using PHP and [PHPUnit](https://phpunit.de/).
+This is a library to get started with Test Driven Development using PHP and [PHPUnit](https://phpunit.de/). To get started with PHPUnit it is advised you begin reading up on [assertions](https://phpunit.readthedocs.io/en/7.4/assertions.html) and [annotations](https://phpunit.readthedocs.io/en/7.4/annotations.html).
 
-To get started with PHPUnit it is advised you begin reading up on [assertions](https://phpunit.readthedocs.io/en/7.4/assertions.html) and [annotations](https://phpunit.readthedocs.io/en/7.4/annotations.html).
+Test Driven Development helps developers achieve two important goals:
+
+- Write simpler, cleaner code.
+- Reduce bugs.
+
+It does increase the time it takes a developer to write code for an individual task, but it reduces the time it takes to complete a task. The reason is more tests mean fewer bugs, and fewer bugs means the quicker the code will pass quality control checks. And the less likely bugs will appear in production.
 
 ## Setup
 
