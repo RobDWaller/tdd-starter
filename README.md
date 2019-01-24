@@ -7,7 +7,7 @@ Test Driven Development helps developers achieve two important goals:
 - Write simpler, cleaner code.
 - Reduce bugs.
 
-It does increase the time it takes a developer to write code for an individual task, but it reduces the time it takes to complete a task. The reason is more tests mean fewer bugs, and fewer bugs means the quicker the code will pass quality control checks. And the less likely bugs will appear in production.
+It does increase the time it takes a developer to write code for an individual task, but it reduces the time it takes to complete a task. The reason is more tests mean fewer bugs, and fewer bugs means the quicker the code will pass quality control checks. And it is less likely bugs will appear in production which will require further rounds of work.
 
 ## Setup
 
