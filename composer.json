@@ -1,0 +1,15 @@
+{
+    "name": "rbdwllr/tdd-starter",
+    "description": "A starter library for learning Test Driven Development",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "RobDWaller",
+            "email": "rdwaller1984@googlemail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^7.0"
+    }
+}
