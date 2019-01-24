@@ -6,7 +6,7 @@ To get started with PHPUnit it is advised you begin reading up on [assertions](h
 
 ## Setup
 
-```console
+```sh
 // Install the dependencies.
 composer update
 
@@ -33,7 +33,7 @@ To get going with Test Drive Development it's suggested you begin by completing 
 
 > Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
 
-Your first test after your compilation test might be... :wink: :wink:
+Your first test after your compilation test might be... :wink::wink:
 
 ```php
 public function testIsFizz()
