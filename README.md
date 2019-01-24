@@ -1,10 +1,12 @@
 # Test Driven Development Starter Library
 
-This is a library to get started with Test Driven Development using PHP and PHPUnit.
+This is a library to get started with Test Driven Development using PHP and [PHPUnit](https://phpunit.de/).
+
+To get started with PHPUnit it is advised you begin reading up on [assertions](https://phpunit.readthedocs.io/en/7.4/assertions.html) and [annotations](https://phpunit.readthedocs.io/en/7.4/annotations.html).
 
 ## Setup
 
-```bash
+```console
 // Install the dependencies.
 composer update
 
